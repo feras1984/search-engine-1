@@ -5,8 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Awam\\Se\\SearchEngine": "src/",
-            "Awam\\Se\\HttpClient\\PantherClient": "src/HttpClient"
+            "Awam\\Se\\SearchEngine\\": "src/",
+            "Awam\\Se\\HttpClient\\PantherClient\\": "src/HttpClient"
         }
     },
     "authors": [
